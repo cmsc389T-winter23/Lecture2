@@ -1,4 +1,4 @@
-# Lecture2
+# Lecture2 - and Project 2!
 
 This is a change to my README file!
 
